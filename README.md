@@ -35,4 +35,4 @@ Tener Python instalado.
 
 Librerías usadas:
 
-Tkinter con sus módulos: Scrollbar,RIGHT,Y,filedialog,messagebox,font
+● Tkinter con sus módulos: Scrollbar,RIGHT,Y,filedialog,messagebox,font
