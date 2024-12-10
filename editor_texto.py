@@ -1,5 +1,5 @@
 import tkinter as tk
-from tkinter import Tk,Text,Scrollbar,RIGHT,Y,ttk,filedialog,messagebox,scrolledtext,font
+from tkinter import Scrollbar,RIGHT,Y,filedialog,messagebox,font
 
 # Le damos nombre,tamaño y color a la ventana
 raiz = tk.Tk()
