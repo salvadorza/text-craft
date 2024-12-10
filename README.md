@@ -18,7 +18,9 @@ El propósito de TextCraft es ofrecer un editor de texto sencillo pero funcional
 ● Estilización del Texto
 
 -Negrita: Resalta palabras o frases importantes aplicándoles un estilo en negrita.
+
 -Cursiva: Permite dar un toque estilizado al texto con letras inclinadas.
+
 -Subrayado: Agrega un subrayado al texto seleccionado para enfatizarlo.
 
 ● Interfaz Amigable
