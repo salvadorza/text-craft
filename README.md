@@ -26,6 +26,7 @@ El propósito de TextCraft es ofrecer un editor de texto sencillo pero funcional
 ● Interfaz Amigable
 
 &nbsp;&nbsp;&nbsp;&nbsp;-Diseño limpio y moderno con botones intuitivos para aplicar estilos y gestionar documentos.
+
 &nbsp;-Colores suaves y tipografías claras para garantizar la comodidad visual del usuario.
 
 # Requisitos🔎
